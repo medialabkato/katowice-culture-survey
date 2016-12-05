@@ -1,0 +1,250 @@
+{
+   "name":"badanie-uczestnikow-kultury-w-katowicach",
+   "title":"Wyniki badania uczestników wydarzeń kulturalnych w Katowicach",
+   "description":"Badanie jest częścią projektu realizowanego przez Medialab Katowice w ramach międzynarodowej platformy Shared Cities: Creative Momentum",
+   "homepage":"https://github.com/medialabkato/katowice-culture-survey",
+   "last_updated": "2016-12-05",
+   "license":{
+      "type":"CC BY 4.0",
+      "url":"https://creativecommons.org/licenses/by/4.0/"
+   },
+   "author":{
+      "name":"Medialab Katowice",
+      "email":"info@medialabkatowice.eu",
+      "web":"https://medialabkatowice.eu"
+   },
+	"sources":{
+      "name":"Wyniki badania uczestników wydarzeń kulturalnych w Katowicach",
+      "web": "https://github.com/medialabkato/katowice-culture-survey"
+   },
+   "resources":[
+      {
+         "name":"survey_data",
+         "title":"Survey data",
+         "schema":{
+            "fields":[
+               {
+                  "name":"event",
+                  "type":"string",
+                  "title":"Tytuł badanego wydarzenia"
+               },
+               {
+                  "name":"date",
+                  "type":"date",
+                  "title":"Data wykonania badania"
+               },
+               {
+                  "name":"place",
+                  "type":"string",
+                  "title":"Miejsce wykonania badania"
+               },
+               {
+                  "name":"admission",
+                  "type":"boolean",
+                  "title":"Czy wydarzenie było płatne"
+               },
+               {
+                  "name":"age",
+                  "type":"integer",
+                  "title":"Wiek badanej osoby"
+               },
+               {
+                  "name":"gender",
+                  "type":"categorical (unordered)",
+                  "title":"Płeć badanej osoby"
+               },
+               {
+                  "name":"address_code",
+                  "type":"string",
+                  "title":"Adres zamieszkania badanej osoby: kod pocztowy"
+               },
+               {
+                  "name":"address_city",
+                  "type":"string",
+                  "title":"Adres zamieszkania badanej osoby: miejscowość"
+               },
+               {
+                  "name":"address_district",
+                  "type":"string",
+                  "title":"Adres zamieszkania badanej osoby: dzielnica"
+               },
+               {
+                  "name":"address_street",
+                  "type":"string",
+                  "title":"Adres zamieszkania badanej osoby: ulica"
+               },
+               {
+                  "name":"address_number",
+                  "type":"integer",
+                  "title":"Adres zamieszkania badanej osoby: numer domu"
+               },
+               {
+                  "name":"education_level",
+                  "type":"categorical (ordered)",
+                  "title":"Poziom wykształcenia badanej osoby"
+               },
+               {
+                  "name":"education_university",
+                  "type":"string",
+                  "title":"Nazwa uczelni"
+               },
+               {
+                  "name":"education_field",
+                  "type":"string",
+                  "title":"Kierunek studiów"
+               },
+               {
+                  "name":"facebook",
+                  "type":"boolean",
+                  "title":"Czy badana osoba korzysta z Facebooka"
+               },
+               {
+                  "name":"with_partner",
+                  "type":"boolean",
+                  "title":"Z kim wybrała się na wydarzenie badana osoba: z partnerem, partnerką, mężem, żoną"
+               },
+               {
+                  "name":"with_friends",
+                  "type":"boolean",
+                  "title":"Z kim wybrała się na wydarzenie badana osoba: ze znajomymi, przyjaciółmi"
+               },
+               {
+                  "name":"with_children",
+                  "type":"boolean",
+                  "title":"Z kim wybrała się na wydarzenie badana osoba: z dziećmi"
+               },
+               {
+                  "name":"with_guests",
+                  "type":"boolean",
+                  "title":"Z kim wybrała się na wydarzenie badana osoba: z gośćmi z innego miasta, kraju"
+               },
+               {
+                  "name":"with_alone",
+                  "type":"boolean",
+                  "title":"Z kim wybrała się na wydarzenie badana osoba: sama"
+               },
+               {
+                  "name":"with_custom",
+                  "type":"boolean",
+                  "title":"Z kim wybrała się na wydarzenie badana osoba: z kimś innym"
+               },
+               {
+                  "name":"with_custom_value",
+                  "type":"string",
+                  "title":"Z kim wybrała się na wydarzenie badana osoba: z kimś innym – z kim?"
+               },
+               {
+                  "name":"info_source",
+                  "type":"categorical (unordered)",
+                  "title":"Skąd badana osoba dowiedziała się o wydarzeniu"
+               },
+               {
+                  "name":"info_custom_value",
+                  "type":"string",
+                  "title":"Skąd badana osoba dowiedziała się o wydarzeniu: inne"
+               },
+               {
+                  "name":"on_purpose",
+                  "type":"boolean",
+                  "title":"Czy badana osoba znalazła się w centrum miasta głównie z powodu wydarzenia"
+               },
+               {
+                  "name":"reason",
+                  "type":"categorical (unordered)",
+                  "title":"Co było głównym powodem przyjścia badanej osoby na wydarzenie"
+               },
+               {
+                  "name":"reason_custom_value",
+                  "type":"string",
+                  "title":"Co było głównym powodem przyjścia badanej osoby na wydarzenie: inne"
+               },
+               {
+                  "name":"transport",
+                  "type":"categorical (unordered)",
+                  "title":"W jaki sposób badana osoba dotarła na wydarzenie"
+               },
+               {
+                  "name":"transport_line",
+                  "type":"string",
+                  "title":"Numer linii"
+               },
+               {
+                  "name":"transport_custom_value",
+                  "type":"string",
+                  "title":"W jaki sposób badana osoba dotarła na wydarzenie: inne"
+               },
+               {
+                  "name":"activity_bars",
+                  "type":"boolean",
+                  "title":"Co badana osoba robiła w mieście przy okazji wydarzenia: odwiedzam kluby, bary lub kawiarnie"
+               },
+               {
+                  "name":"activity_restaurants",
+                  "type":"boolean",
+                  "title":"Co badana osoba robiła w mieście przy okazji wydarzenia: korzystam z oferty restauracji lub jadłodajni"
+               },
+               {
+                  "name":"activity_culture",
+                  "type":"boolean",
+                  "title":"Co badana osoba robiła w mieście przy okazji wydarzenia: odwiedzam inne instytucje kultury"
+               },
+               {
+                  "name":"activity_accommodation",
+                  "type":"boolean",
+                  "title":"Co badana osoba robiła w mieście przy okazji wydarzenia: korzystam z oferty noclegowej"
+               },
+               {
+                  "name":"activity_recreation",
+                  "type":"boolean",
+                  "title":"Co badana osoba robiła w mieście przy okazji wydarzenia: korzystam z oferty sportowej lub rekreacyjnej"
+               },
+               {
+                  "name":"activity_sightseeing",
+                  "type":"boolean",
+                  "title":"Co badana osoba robiła w mieście przy okazji wydarzenia: spaceruję, zwiedzam miasto"
+               },
+               {
+                  "name":"activity_shopping",
+                  "type":"boolean",
+                  "title":"Co badana osoba robiła w mieście przy okazji wydarzenia: idę na zakupy, szukam pamiątek"
+               },
+               {
+                  "name":"activity_none",
+                  "type":"boolean",
+                  "title":"Co badana osoba robiła w mieście przy okazji wydarzenia: żadne z powyższych"
+               },
+               {
+                  "name":"acivity_custom",
+                  "type":"boolean",
+                  "title":"Co badana osoba robiła w mieście przy okazji wydarzenia: inne"
+               },
+               {
+                  "name":"activity_custom_value",
+                  "type":"string",
+                  "title":"Co badana osoba robiła w mieście przy okazji wydarzenia: inne"
+               },
+               {
+                  "name":"spendings",
+                  "type":"integer",
+                  "title":"Ile mniej więcej pieniędzy badana osoba wydała lub zamierzała wydać dodatkowo (rozrywka, jedzenie, noclegi itp.) przy okazji wydarzenia"
+               },
+               {
+                  "name":"participant_profile",
+                  "type":"categorical (unordered)",
+                  "title":"Jak opisałaby siebie jako uczestnika kultury badana osoba"
+               }
+            ],
+            "keywords":[
+               "Katowice",
+               "miasto",
+               "kultura",
+               "uczestnictwo",
+               "badanie",
+               "research",
+               "dane",
+               "ankieta"
+            ]
+         }
+      }
+   ]
+}
