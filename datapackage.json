@@ -51,7 +51,7 @@
                },
                {
                   "name":"gender",
-                  "type":"categorical (unordered)",
+                  "type":"categorical",
                   "title":"Płeć badanej osoby"
                },
                {
@@ -81,7 +81,7 @@
                },
                {
                   "name":"education_level",
-                  "type":"categorical (ordered)",
+                  "type":"categorical",
                   "title":"Poziom wykształcenia badanej osoby"
                },
                {
@@ -136,7 +136,7 @@
                },
                {
                   "name":"info_source",
-                  "type":"categorical (unordered)",
+                  "type":"categorical",
                   "title":"Skąd badana osoba dowiedziała się o wydarzeniu"
                },
                {
@@ -151,7 +151,7 @@
                },
                {
                   "name":"reason",
-                  "type":"categorical (unordered)",
+                  "type":"categorical",
                   "title":"Co było głównym powodem przyjścia badanej osoby na wydarzenie"
                },
                {
@@ -231,7 +231,7 @@
                },
                {
                   "name":"participant_profile",
-                  "type":"categorical (unordered)",
+                  "type":"categorical",
                   "title":"Jak opisałaby siebie jako uczestnika kultury badana osoba"
                }
             ],
