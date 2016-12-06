@@ -20,6 +20,7 @@
    "resources":[
       {
          "name":"survey-data",
+	 "path":"survey-data.csv"
          "title":"Survey data",
          "schema":{
             "fields":[
