@@ -15,11 +15,11 @@
    },
 	"sources":{
       "name":"Wyniki badania uczestników wydarzeń kulturalnych w Katowicach",
-      "web": "https://github.com/medialabkato/katowice-culture-survey"
+      "web": "https://github.com/medialabkato/katowice-culture-survey/blob/master/survey-data.csv"
    },
    "resources":[
       {
-         "name":"survey_data",
+         "name":"survey-data",
          "title":"Survey data",
          "schema":{
             "fields":[
