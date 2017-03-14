@@ -12,7 +12,7 @@ Docelowo w latach 2016–2017 badaniu poddanych zostanie kilkanaście wydarzeń,
 Szczegółowy opis zgromadzonych danych znajduje się pod adresem https://github.com/medialabkato/katowice-culture-survey/blob/master/datapackage.json
 
 Więcej informacji o projekcie na stronie: 
-https://medialabkatowice.eu/projekty/shared-cities/
+https://medialabkatowice.eu/projekty/shared-cities-creative-momentum-pl/
 
 Kontakt: info@medialabkatowice.eu
 
