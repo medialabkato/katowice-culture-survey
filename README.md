@@ -1,9 +1,11 @@
 **Wyniki badania uczestników wydarzeń kulturalnych w Katowicach**
 
-Prezentowane treści pochodzą z badań prowadzonych w 2016 roku podczas nast. wydarzeń: 
+Prezentowane treści pochodzą z badań prowadzonych w 2016 i 2017 roku podczas nast. wydarzeń: 
 - Ars Independent Festival
 - Regiofun – Międzynarodowy Festiwal Producentów Filmowych
 - Interpretacje – XVII Ogólnopolski Festiwal Sztuki Reżyserskiej
+- Silesian Jazz Festival
+- Teatr Śląski
 
 Docelowo w latach 2016–2017 badaniu poddanych zostanie kilkanaście wydarzeń, rezultaty będą publikowane na bieżąco.
 
