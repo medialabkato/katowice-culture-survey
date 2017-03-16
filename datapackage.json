@@ -37,6 +37,7 @@
                {
                   "name":"date",
                   "type":"date",
+		  "format":"YYYY-MM-DD",
                   "title":"Data badania"
                },
                {
@@ -238,6 +239,13 @@
                   "name":"participant_profile",
                   "type":"categorical",
                   "title":"Jak opisałaby siebie jako uczestnika kultury badana osoba"
+		  "description":"heavy_user: Nawet kilka razy w tygodniu biorę udział w wydarzeniach kulturalnych, nie boję się eksperymentów, interesują mnie również dyskusje i warsztaty; 
+				selekcjoner: Orientuję się w konkretnych dziedzinach kultury i stosunkowo często uczestniczę w wydarzeniach, ale ze względu na obowiązki wybieram tylko to, co warte uwagi;
+				koneser: Regularnie śledzę program kilku szanowanych instytucji kultury i zawsze chętnie je z kimś odwiedzę. Wolę uznanych twórców od eksperymentowania;
+				fan: Biorę udział we wszystkim, co jest związane z autorem lub tematem dzisiejszego wydarzenia;
+				sporadyczny: Wychodząc gdzieś ze znajomymi, od czasu do czasu bierzemy udział w wydarzeniach kulturalnych, szczególnie jeśli wstęp nie jest bardzo drogi;
+				dinner$show: Udział w wydarzeniach planuję raz na jakiś czas, zazwyczaj z wyprzedzeniem, często łączę tę okazję np. z wyjściem do restauracji;
+				przypadkowy: Nie pamiętam, kiedy ostatni raz byłam/byłem na wydarzeniu kulturalnym. Raczej spędzam wolny czas w inny sposób"
                }
             ],
             "keywords":[
