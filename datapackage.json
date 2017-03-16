@@ -3,7 +3,7 @@
    "title":"Wyniki badania uczestników wydarzeń kulturalnych w Katowicach",
    "description":"Badanie jest częścią projektu realizowanego przez Medialab Katowice w ramach międzynarodowej platformy Shared Cities: Creative Momentum",
    "homepage":"https://github.com/medialabkato/katowice-culture-survey",
-   "last_updated": "2016-12-05",
+   "last_updated": "2017-03-15",
    "license":{
       "type":"CC BY 4.0",
       "url":"https://creativecommons.org/licenses/by/4.0/"
@@ -27,17 +27,22 @@
                {
                   "name":"event",
                   "type":"string",
-                  "title":"Tytuł badanego wydarzenia"
+                  "title":"Nazwa badanej instytucji, festiwalu lub wydarzenia"
+               },
+	       {
+                  "name":"event_detailed",
+                  "type":"string",
+                  "title":"Nazwa wydarzenia (np. spektaklu lub koncertu, podczas którego prowadzono badanie)"
                },
                {
                   "name":"date",
                   "type":"date",
-                  "title":"Data wykonania badania"
+                  "title":"Data badania"
                },
                {
                   "name":"place",
                   "type":"string",
-                  "title":"Miejsce wykonania badania"
+                  "title":"Miejsce badania"
                },
                {
                   "name":"admission",
@@ -81,7 +86,7 @@
                },
                {
                   "name":"education_level",
-                  "type":"categorical",
+                  "type":"categorical, ordered",
                   "title":"Poziom wykształcenia badanej osoby"
                },
                {
