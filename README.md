@@ -6,6 +6,8 @@ Prezentowane treści pochodzą z badań prowadzonych w 2016 i 2017 roku podczas 
 - Interpretacje – XVII Ogólnopolski Festiwal Sztuki Reżyserskiej
 - Silesian Jazz Festival
 - Teatr Śląski
+- Intel Extreme Masters
+- Narodowa Orkiestra Symfoniczna Polskiego Radia
 
 Docelowo w latach 2016–2017 badaniu poddanych zostanie kilkanaście wydarzeń, rezultaty będą publikowane na bieżąco.
 
