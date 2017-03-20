@@ -22,8 +22,8 @@ Badanie jest częścią projektu realizowanego przez Medialab Katowice w ramach 
 
 *Shared Cities: Creative Momentum to wspólne przedsięwzięcie instytucji Katowice Miasto Ogrodów oraz Goethe-Institut (DE), Czech Centres (CZ), reSITE (CZ), Academy of Fine Arts and Design in Bratislava (SK), Association of Belgrade Architects (RS), Contemporary Architecture Centre (HU), KUNSTrePUBLIK (DE), Mindspace (HU), Old Market Hall Alliance (SK), Res Publica – Cities Magazine (PL). Projekt jest współfinansowany przez Unię Europejską w ramach Programu Kreatywna Europa. Partnerem lokalnym jest Regionalny Instytut Kultury w Katowicach.*
 
-zmienna | typ danych | wartość 
-- | - | - 
+zmienna | typ danych | wartość
+--- | --- | ---
 event | string | nazwa badanego wydarzenia, festiwalu lub instytucji
 event_detailed | string | nazwa konkretnego wydarzenia, np. spektaklu lub koncertu, podczas którego przeprowadzono badanie
 date | date | data badania
