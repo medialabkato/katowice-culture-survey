@@ -1,18 +1,18 @@
-event,labelshort,total,z innego źródła',z mediów społecznościowych'
-Ars Independent,Ars Independ.,88,47,41
-Inne wydarzenia,Inne,61,25,36
-Intel Extreme Masters,Intel,439,191,248
-Interpretacje,Interpretacje,72,49,23
-JazzArt Festival,JazzArt,82,56,26
-Letni Ogród Teatralny,LOT,73,57,16
-Muzeum Śląskie,Muzeum Śl.,285,212,73
-NOSPR,NOSPR,106,92,14
-OFF Festival,OFF,302,241,61
-Regiofun,Regiofun,66,42,24
-Silesia Bazaar,SilesiaBazaar,58,21,37
-Silesia Film,Kina studyjne,64,51,13
-Silesian Jazz Festival,Silesian Jazz,83,48,35
-Szyb Wilson,Szyb Wilson,55,37,18
-Tauron Nowa Muzyka,Tauron NM,384,248,136
-Teatr Śląski,Teatr Śląski,150,115,35
-Wystawy,Wystawy,54,25,29
+event,labelshort,other_info_source,social_media,total
+Ars Independent,Ars Independ.,47,41,88
+Inne wydarzenia,Inne,25,36,61
+Intel Extreme Masters,Intel,191,248,439
+Interpretacje,Interpretacje,49,23,72
+JazzArt Festival,JazzArt,56,26,82
+Letni Ogród Teatralny,LOT,57,16,73
+Muzeum Śląskie,Muzeum Śl.,212,73,285
+NOSPR,NOSPR,92,14,106
+OFF Festival,OFF,241,61,302
+Regiofun,Regiofun,42,24,66
+Silesia Bazaar,SilesiaBazaar,21,37,58
+Silesia Film,Kina studyjne,51,13,64
+Silesian Jazz Festival,Silesian Jazz,48,35,83
+Szyb Wilson,Szyb Wilson,37,18,55
+Tauron Nowa Muzyka,Tauron NM,248,136,384
+Teatr Śląski,Teatr Śląski,115,35,150
+Wystawy,Wystawy,25,29,54
