@@ -1,18 +1,18 @@
-label,labelshort,polecenie,nie pamiętam,drukowany informator,strona www,social media,znam z poprzednich wydarzeń,"prasa, radio, telewizja","ulotka, plakat",inne,total
-Ars Independent,Ars Independ.,137,8,10,42,152,4,19,24,11,407
-Inne wydarzenia,Inne,24,7,1,NA,37,1,3,2,4,79
-Intel Extreme Masters,Intel,77,78,2,NA,272,20,16,5,33,503
-Interpretacje,Interpretacje,24,7,3,13,26,7,5,4,4,93
-JazzArt Festival,JazzArt,35,23,5,NA,31,1,7,10,4,116
-Letni Ogród Teatralny,Kina studyjne,41,28,3,NA,24,4,4,5,2,111
-Muzeum Śląskie,LOT,174,62,3,NA,85,1,12,11,34,382
-NOSPR,Muzeum Śl.,64,34,9,32,16,2,5,6,35,203
-OFF Festival,NOSPR,135,82,2,NA,70,15,26,2,14,346
-Regiofun,OFF,32,5,4,10,26,5,8,4,4,98
-Silesia Bazaar,Regiofun,24,5,1,NA,41,NA,1,2,1,75
-Silesia Film,SilesiaBazaar,10,NA,1,52,18,NA,3,2,3,89
-Silesian Jazz Festival,Silesian Jazz,40,NA,5,18,40,NA,4,4,4,115
-Szyb Wilson,Szyb Wilson,22,17,3,NA,26,7,5,6,9,95
-Tauron Nowa Muzyka,Tauron NM,148,86,3,NA,153,21,26,3,24,464
-Teatr Śląski,Teatr Śląski,54,NA,8,129,48,NA,10,8,3,260
-Wystawy,Wystawy,19,5,NA,NA,32,1,4,1,6,68
+event,labelshort,total,z innego źródła',z mediów społecznościowych'
+Ars Independent,Ars Independ.,88,47,41
+Inne wydarzenia,Inne,61,25,36
+Intel Extreme Masters,Intel,439,191,248
+Interpretacje,Interpretacje,72,49,23
+JazzArt Festival,JazzArt,82,56,26
+Letni Ogród Teatralny,LOT,73,57,16
+Muzeum Śląskie,Muzeum Śl.,285,212,73
+NOSPR,NOSPR,106,92,14
+OFF Festival,OFF,302,241,61
+Regiofun,Regiofun,66,42,24
+Silesia Bazaar,SilesiaBazaar,58,21,37
+Silesia Film,Kina studyjne,64,51,13
+Silesian Jazz Festival,Silesian Jazz,83,48,35
+Szyb Wilson,Szyb Wilson,55,37,18
+Tauron Nowa Muzyka,Tauron NM,384,248,136
+Teatr Śląski,Teatr Śląski,150,115,35
+Wystawy,Wystawy,54,25,29
