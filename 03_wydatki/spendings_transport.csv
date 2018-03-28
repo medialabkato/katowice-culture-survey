@@ -1,0 +1,8 @@
+label,labelshort,from,to,fromh,toh,median
+inne,inne,0,900,50,400,200
+komunikacja,komunikacja,0,200,10,100,30
+pieszo,pieszo,0,450,5,200,42.5
+"pociąg, autokar","pociąg, autokar",0,200,20,100,50
+rower,rower,0,200,10,100,45
+samochód,samochód,0,200,10,100,50
+"taxi, uber","taxi, uber",6,1000,50,500,200
