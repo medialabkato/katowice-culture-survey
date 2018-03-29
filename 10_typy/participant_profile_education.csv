@@ -1,18 +1,18 @@
-label,labelshort,brak,podstawowe,średnie,w trakcie studiów,wyższe,total
-Ars Independent,Ars Independ.,2,11,55,145,176,389
-Inne wydarzenia,Inne,NA,3,17,17,42,79
-Intel Extreme Masters,Intel,23,126,206,93,55,503
-Interpretacje,Interpretacje,NA,NA,6,15,65,86
-JazzArt Festival,JazzArt,NA,3,16,15,82,116
-Letni Ogród Teatralny,LOT,NA,2,27,7,75,111
-Muzeum Śląskie,Muzeum Śl.,3,37,72,83,187,382
-NOSPR,NOSPR,NA,4,34,20,137,195
-OFF Festival,OFF,2,7,47,77,213,346
-Regiofun,Regiofun,NA,3,22,20,50,95
-Silesia Bazaar,SilesiaBazaar,NA,NA,19,5,51,75
-Silesia Film,Kina studyjne,NA,7,38,19,85,149
-Silesian Jazz Festival,Silesian Jazz,3,3,21,19,59,105
-Szyb Wilson,Szyb Wilson,1,4,16,7,67,95
-Tauron Nowa Muzyka,Tauron NM,6,5,56,75,308,450
-Teatr Śląski,Teatr Śląski,1,8,58,47,136,250
-Wystawy,Wystawy,NA,4,21,17,26,68
+label,labelshort,wyższe,w trakcie studiów,średnie,podstawowe,brak,total
+Ars Independent,Ars Independ.,176,145,55,11,2,389
+Inne wydarzenia,Inne,42,17,17,3,NA,79
+Intel Extreme Masters,Intel,55,93,206,126,23,503
+Interpretacje,Interpretacje,65,15,6,NA,NA,86
+JazzArt Festival,JazzArt,82,15,16,3,NA,116
+Letni Ogród Teatralny,LOT,75,7,27,2,NA,111
+Muzeum Śląskie,Muzeum Śl.,187,83,72,37,3,382
+NOSPR,NOSPR,137,20,34,4,NA,195
+OFF Festival,OFF,213,77,47,7,2,346
+Regiofun,Regiofun,50,20,22,3,NA,95
+Silesia Bazaar,SilesiaBazaar,51,5,19,NA,NA,75
+Silesia Film,Kina studyjne,85,19,38,7,NA,149
+Silesian Jazz Festival,Silesian Jazz,59,19,21,3,3,105
+Szyb Wilson,Szyb Wilson,67,7,16,4,1,95
+Tauron Nowa Muzyka,Tauron NM,308,75,56,5,6,450
+Teatr Śląski,Teatr Śląski,136,47,58,8,1,250
+Wystawy,Wystawy,26,17,21,4,NA,68
