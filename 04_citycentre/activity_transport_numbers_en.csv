@@ -1,0 +1,8 @@
+label,bars,restaurants,culture,hotel,sport,walk,shopping,none,other,total
+public transport,254,201,113,40,10,228,72,170,54,755
+walking,195,143,116,47,16,186,41,115,64,552
+"train, coach",34,33,15,3,0,29,2,16,13,92
+bicycle,15,18,11,5,5,8,5,6,4,44
+car,363,398,209,114,35,404,133,530,107,1633
+"taxi, Uber",12,17,7,11,0,14,5,8,6,41
+other,176,215,119,136,16,231,65,73,30,513
