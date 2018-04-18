@@ -1,6 +1,0 @@
-label,labelshort,from,to,fromh,toh,median
-samemu,sam(a),0,200,5,100,30
-z partnerem,partner,0,450,15,200,50
-ze znajomymi,znajomi,0,460,15,200,50
-ze znajomymi i partnerem,partn. + znaj.,0,700,32.5,300,100
-"ze znajomymi, partnerem i gościem",+ gość,0,600,27.5,300,175
