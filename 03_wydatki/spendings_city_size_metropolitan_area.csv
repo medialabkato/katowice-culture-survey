@@ -1,6 +1,0 @@
-label,labelshort,from,to,fromh,toh,median
-do 10tys,do 10tys,0,200,13,100,50
-10–50tys,10–50tys,0,200,15,100,50
-50–100tys,50–100tys,0,200,3,100,30
-100–200tys,100–200tys,0,220,8,100,40
-pow.200tys,pow.200tys,0,200,5.5,100,27.5
