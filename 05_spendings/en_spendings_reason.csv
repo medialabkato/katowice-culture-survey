@@ -1,0 +1,8 @@
+label,labelshort,ymin,ymax,lower,upper,middle
+venue proximity,venue proximity,0,200,3,100,40
+other,other,0,400,4,200,50
+regular visitor,regular visitor,0,400,20,200,80
+free admission,free admission,0,120,0,50,20
+personal recommendation,recommendation,0,352,10,150,50
+persuasion by friends,friends,0,200,10,100,50
+interest in the topic,topic,0,460,20,200,50

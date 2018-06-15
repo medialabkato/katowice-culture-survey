@@ -1,0 +1,8 @@
+label,labelshort,from,to,fromh,toh,median
+other,other,0,900,50,400,200
+public transport,public tr.,0,200,10,100,30
+walking,walking,0,450,5,200,42.5
+"train, coach",train,0,200,20,100,50
+bicycle,bicycle,0,200,10,100,45
+car,car,0,200,10,100,50
+taxi,taxi,6,1000,50,500,200

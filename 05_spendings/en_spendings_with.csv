@@ -1,0 +1,6 @@
+label,labelshort,ymin,ymax,lower,upper,middle
+alone,alone,0,200,5,100,30
+with partner,partner,0,450,15,200,50
+with friends,friends,0,460,15,200,50
+partner + friends,partn. + friends,0,700,32.5,300,100
+partner + friends + guest,+ guest,0,600,27.5,300,175
