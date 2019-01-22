@@ -1,0 +1,22 @@
+[
+  {
+    "place": "Niezapominajek Street",
+    "time": "1h 21m",
+    "distance": "15 km"
+  },
+  {
+    "place": "Miasteczko Śląskie",
+    "time": "1h 21m",
+    "distance": "35 km"
+  },
+   {
+    "place": "Oświęcim",
+    "time": "1h 10m",
+    "distance": "35 km"
+  },
+  {
+    "place": "Gliwice",
+    "time": "0h 55m",
+    "distance": "30 km"
+  }
+]

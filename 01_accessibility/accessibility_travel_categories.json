@@ -1,0 +1,22 @@
+[
+  {
+    "kategoria": "komfortowy",
+    "czas": "> 18 min",
+    "definicja": "nie sprawia problemu"
+  },
+  {
+    "kategoria": "standardowy",
+    "czas": "18–37 min",
+    "definicja": "typowy dla większości"
+  },
+  {
+    "kategoria": "wymagający",
+    "czas": "38–58 min",
+    "definicja": "wymaga wysiłku"
+  },
+  {
+    "kategoria": "problematyczny",
+    "czas": "> 58 min",
+    "definicja": "zniechęca do udziału"
+  }
+]

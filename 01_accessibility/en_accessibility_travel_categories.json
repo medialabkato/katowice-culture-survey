@@ -1,0 +1,22 @@
+[
+  {
+    "category": "convenient",
+    "duration": "> 18 min",
+    "definition": "faster than usual"
+  },
+  {
+    "category": "standard",
+    "duration": "18–37 min",
+    "definition": "most typical"
+  },
+  {
+    "category": "demanding",
+    "duration": "38–58 min",
+    "definition": "still acceptable"
+  },
+  {
+    "category": "difficult",
+    "duration": "> 58 min",
+    "definition": "discouraging from participation"
+  }
+]
