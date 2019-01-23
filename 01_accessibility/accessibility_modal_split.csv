@@ -1,3 +1,3 @@
-transport_mode,z_katowic,spoza_katowic
-komunikacja,18.7,23.6
-samochód,47.7,38.4
+label,labelshort,komunikacja,samochód,pozostałe,total
+z Katowic,Katowice,170,276,273,719
+spoza Katowic,spoza,366,934,658,1958
